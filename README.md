@@ -1,6 +1,6 @@
 # Movie Recommendation System using API Key
 
-This is a movie recommendation system project developed by [Elanthirayann](https://github.com/Elanthirayann). The system suggests movies to users based on their preferences and past viewing history.
+This is a movie recommendation system project developed by Swathi. The system suggests movies to users based on their preferences and past viewing history.
 
 ## Features
 
@@ -15,7 +15,7 @@ To run the movie recommendation system locally, follow these steps:
 1. Clone the repository:
 
     ```
-    git clone https://github.com/Elanthirayann/movie.git
+    git clone https://github.com/swathii21/movie.git
     ```
 
 2. Navigate to the project directory:
